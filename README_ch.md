@@ -1,4 +1,4 @@
-# awesome-ai-mental-health
+# 大语言模型在心理健康领域的应用
 
 
 > 🔗 [English Version](README.md)
