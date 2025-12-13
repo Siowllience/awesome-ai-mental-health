@@ -5,6 +5,10 @@
 ## 🔥News
 
 >  **[December. 2025]**: **[《大语言模型在心理健康领域的应用综述》](README_zh.md)** 已被[《集成技术》](https://jcjs.siat.ac.cn/article/doi/10.12146/j.issn.2095-3135.20251102001)录用！
+> 
+>  **[December. 2025]**: **[Review on the Application of Large Language
+Models (LLMs) in the Mental Health Field](README_zh.md)** 已被[Journal of Integration Technology](https://jcjs.siat.ac.cn/article/doi/10.12146/j.issn.2095-3135.20251102001)录用！
+
 
 - [Theoretical basis ](#theoretical-basis )
 - [Technological development ](#technological-development )
