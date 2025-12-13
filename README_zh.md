@@ -9,6 +9,10 @@
 - [心理健康领域大模型技术发展](#心理健康领域大模型技术发展)
 - [现存挑战](#现存挑战)
 
+<img width="5643" height="2619" alt="心理领域应用_01" src="https://github.com/user-attachments/assets/eec29a58-9fb0-46bc-88ab-8a867f2912c8" />
+<img width="6587" height="3184" alt="技术发展树形图_01" src="https://github.com/user-attachments/assets/4a52af9e-d6a2-474b-bef4-fdbefe2bbe58" />
+
+
 # 现有综述
 [1]Global, regional, and national burden of 12 mental disorders in 204 countries and territories,1990–2019: a systematic analysis for the global burden of disease study 2019[J]. The Lancet Psychiatry, 2022, 9(2): 137-150.
 
