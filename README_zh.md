@@ -213,3 +213,18 @@
 
 [95]ZHU J, XU A, TAN M, et al. Xinhai@ clpsych 2024 shared task: Prompting healthcare-oriented llms for evidence highlighting in posts with suicide risk[C]//Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024). 2024: 238-246.
 
+```bibtex
+@Article{20251102001,
+title = {大语言模型在心理健康领域的应用综述},
+journal = {集成技术},
+volume = {},
+number = {},
+pages = {},
+year = {2026},
+issn = {2095-3135},
+doi = {10.12146/j.issn.2095-3135.20251102001},
+url = {https://jcjs.siat.ac.cn/cn/article/doi/10.12146/j.issn.2095-3135.20251102001},
+author = {金约汗 and 谭明环 and 杨敏},
+abstract = {大语言模型在心理健康领域的应用已成为人工智能与临床心理学交叉研究的重要方向。该综述从理论基础、临床应用与技术发展三个维度系统梳理了相关研究进展。在理论层面，分析了大语言模型已有特质，总结了其适用于心理症状诊断与心理疾病干预的依据。在应用层面，总结了大模型在心理疾病诊断、心理状态评估、虚拟治疗及临床辅助等场景中的实践案例与成效。在技术层面，归纳了面向心理健康领域的数据构造、能力增强与评估方法等方面的关键进展。最后，指出当前仍面临诊断与临床实践脱节、治疗模拟深度不足、高质量数据稀缺以及技术临床验证缺乏等挑战，并对未来在临床应用与技术研究方面的发展方向进行了展望。&nbsp;}
+}
+```
